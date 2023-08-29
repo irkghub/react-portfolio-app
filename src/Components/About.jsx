@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/linux.png";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+"I am keen tech enthusiast with interests in cloud computing, data science, ML and information security.  AWS Certified Cloud Practitioner";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+" I am a keen tech-enthusiast with deep interests in cloud computing, data-science, machine learning and information security. Currently, I 'm simulataneously learning Python and the essential Linux skills necessitated in a Linux System Administrator , a crucial skill for a wannabe DevOPs engineer. Also, I 'm a fresh graduate of the AWS re/Start. As a learner from the very first cohort of the AWS Restart Program from Nepal, not only did I got the opportunity to learn about the foundations of cloud computing but also the practical real-world implementation of cloud computing through the combination of myriad services and features I was lucky to get acquainted with.";
 
 const About = () => {
   return (
